@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "14083527793",
+    "firebase_url": "https://wallappsy.firebaseio.com",
+    "project_id": "wallappsy",
+    "storage_bucket": "wallappsy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14083527793:android:25dc1e540e77800e0fb7d0",
+        "android_client_info": {
+          "package_name": "com.example.wallappsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14083527793-bd8j5v7kd77pkai3ap5uj658gfq8e04l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTa5Yxpy2eTDKpGdxae_pLgnEL6w1Ub_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14083527793-bd8j5v7kd77pkai3ap5uj658gfq8e04l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14083527793:android:7b253f0978380f0f0fb7d0",
+        "android_client_info": {
+          "package_name": "com.example.wallappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14083527793-bd8j5v7kd77pkai3ap5uj658gfq8e04l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTa5Yxpy2eTDKpGdxae_pLgnEL6w1Ub_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14083527793-bd8j5v7kd77pkai3ap5uj658gfq8e04l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
